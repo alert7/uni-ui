@@ -38,5 +38,6 @@
       "desc": "打卡需要定位"
     }
   },
-  "usingComponents": {}
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
 }
