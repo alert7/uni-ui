@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tabbar/index/index",
+    "pages/tabbar/shop/index",
+    "pages/tabbar/circle/index",
+    "pages/tabbar/usercenter/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home/home.png",
+        "selectedIconPath": "static/home/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/usercenter/index",
+        "iconPath": "static/home/user-center.png",
+        "selectedIconPath": "static/home/user-center-active.png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "打卡需要定位"
+    }
+  },
+  "usingComponents": {}
+}

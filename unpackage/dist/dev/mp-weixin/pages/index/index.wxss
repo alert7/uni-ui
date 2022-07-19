@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-57280228 {
+  background-color: #fff;
+}
+.container .search-result.data-v-57280228 {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.container .search-result-text.data-v-57280228 {
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+}
+.m-serch-content.data-v-57280228 {
+  height: calc(100vh - 56px);
+}
+.example-body.data-v-57280228 {
+  display: block;
+  padding: 0px;
+}
+.uni-mt-10.data-v-57280228 {
+  margin-top: 10px;
+}
+
