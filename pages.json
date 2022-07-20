@@ -24,6 +24,21 @@
 		"style": {
 			"navigationBarTitleText": "个人中心"
 		}
+	}, {
+		"path": "pages/attendance/home/index",
+		"style": {
+			"navigationBarTitleText": "考勤打卡"
+		}
+	}, {
+		"path": "pages/attendance/monthcalendar/index",
+		"style": {
+			"navigationBarTitleText": "考勤月历"
+		}
+	}, {
+		"path": "pages/attendance/statistics/index",
+		"style": {
+			"navigationBarTitleText": "考勤统计"
+		}
 	}],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
