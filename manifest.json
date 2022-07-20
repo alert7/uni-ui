@@ -1,5 +1,5 @@
 {
-    "name" : "stay",
+    "name" : "uni-ui",
     "appid" : "__UNI__CC30067",
     "description" : "",
     "versionName" : "1.0.0",
@@ -44,7 +44,7 @@
     /* 快应用特有相关 */
     "mp-weixin" : {
         /* 小程序特有相关 */
-        "appid" : "wxd62c1e012ea16d3d",
+        "appid" : "wx7689f893d95881b3",
         "setting" : {
             "urlCheck" : false,
             "es6" : false

@@ -1,7 +1,7 @@
 <template>
 
 	<view class="container">
-		<button type="primary">去打卡</button>
+		<button type="primary">去打卡 </button>
 	</view>
 </template>
 
@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-			}
+			} 
 		},
 		onLoad() {
 
